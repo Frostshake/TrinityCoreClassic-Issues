@@ -8,7 +8,7 @@ https://discord.gg/berq85VDGF
 
 Many features may not work or are in progress, anyone interested in testing or development, see these first:
 
-# Testing - Phase 1
+## Testing - Phase 1
 - Player Interaction and Behaviour
   - races
   - classes
@@ -21,7 +21,7 @@ Many features may not work or are in progress, anyone interested in testing or d
   - talents
   - stats & powers 
 
-# Testing - Phase 2 (Future)
+## Testing - Phase 2 (Future)
 - NPC Interactions
   - Dialog options
   - flight masters
@@ -33,13 +33,13 @@ Many features may not work or are in progress, anyone interested in testing or d
 - Player professions
 - AB & WSG Battlegrounds
 
-# Testing - Phase 3 (Future)
+## Testing - Phase 3 (Future)
 - Instances (game objects and creatures)
  - Dungeons
  - Raids
  - AV Battleground
 
-# Testing - Phase 4 (Future)
+## Testing - Phase 4 (Future)
 - Open world game objects
 - Open world creatures
 - Quests
