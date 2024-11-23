@@ -38,6 +38,7 @@ Many features may not work or are in progress, anyone interested in testing or d
  - Dungeons
  - Raids
  - AV Battleground
+ - Honor system
 
 ## Testing - Phase 4 (Future)
 - Open world game objects
