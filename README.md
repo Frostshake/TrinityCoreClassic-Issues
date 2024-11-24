@@ -30,6 +30,9 @@ Many features may not work or are in progress, anyone interested in testing or d
   - profession trainers
   - weapon trainers
   - battle masters
+- Transports
+- AH
+- Mail system
 - Player professions
 - AB & WSG Battlegrounds
 
