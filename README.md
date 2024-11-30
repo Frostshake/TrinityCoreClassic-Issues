@@ -19,7 +19,10 @@ Many features may not work or are in progress, anyone interested in testing or d
   - groups/party/raid
   - player spells
   - talents
-  - stats & powers 
+  - stats & powers
+    - stats
+    - total health & power
+    - regen rates 
 
 ## Testing - Phase 2 (Future)
 - NPC Interactions
@@ -47,3 +50,11 @@ Many features may not work or are in progress, anyone interested in testing or d
 - Open world game objects
 - Open world creatures
 - Quests
+- Seasonal events
+  - e.g winterviel
+- Periodic events
+  - BG weekends
+  - darkmoon faire
+- Content events
+  - AQ opening
+  - scourge invasion  
